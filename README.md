@@ -11,3 +11,5 @@ To get started:
 3. Collect data to train your model, and train it, using the Training_Data_Scraper scripts
 
 4. [If Desired] Set up a proper daily flow that scrapes the SEC's filing list daily, predicts, acts on trades. I would recommend using a cron job and again doing this locally, but could very much be staged in Sagemaker or the like 
+
+Is obviously somewhat messy (I'm a DS, not a SWE), and some of the code might be a bit opaque, so feel free to email me at riley.bitterli@gmail.com with questions or comments! Happy StockBotting
